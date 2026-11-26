@@ -1,0 +1,25 @@
+#topo{
+    background-color: green
+}
+body{
+    background-color: rgb(208, 47, 47)
+}
+#logoaaaa{
+    height: 100px
+}
+#outro{
+    display: flex
+}
+#outro p{
+    margin-top: 15%
+}
+
+#textologo{
+    font-family:Papyrus ;
+    font-size: 30px;
+    color: red
+}
+
+#carrossel img{
+
+}
